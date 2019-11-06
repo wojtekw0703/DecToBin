@@ -17,10 +17,6 @@ void wczytywanie()
     }
 }
 
-bool sprawdzanie(int liczba)
-{
-
-}
 
 void binarnie(int liczba)
 {
